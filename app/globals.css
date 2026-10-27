@@ -187,7 +187,7 @@ dl { margin: 0; }
 .page-head h1 { margin: 0; font-size: 18px; font-weight: 600; }
 .page-head .sub { color: var(--muted); font-family: var(--font-data); font-size: 12px; }
 .toolbar { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; }
-.toolbar input { height: 32px; width: 220px; max-width: 100%; padding: 0 10px; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; }
+.toolbar input { /*height: 32px; width: 220px;*/ max-width: 100%; padding: 0 10px; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; }
 .btn { height: 32px; padding: 0 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); font-weight: 500; }
 .btn:hover { background: var(--panel-2); }
 .btn.primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }

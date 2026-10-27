@@ -47,7 +47,7 @@ export const NAV: NavEntry[] = [
   {
     label: "Users",
     items: [
-      { href: "/users/users", label: "Users" },
+      { href: "/users", label: "Users" },
       { href: "/users/roles", label: "User roles" },
       { href: "/users/rights", label: "User rights" },
     ],
